@@ -1,24 +1,14 @@
 ### Hi there 👋
 
-<!--
-**s1see/s1see** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on an NFT project
+- 🌱 I’m currently learning AI (not enough time🥲)
+- 📫 How to reach me: [Twitter](https://twitter.com/s1see)
 
-Here are some ideas to get you started:
+| <img src="https://github-readme-stats.vercel.app/api?username=s1see&custom_title=s1see's Github Stats&count_private=true&show_icons=true&theme=vue&hide_border=true"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1see&layout=compact&theme=vue&hide_border=true"> |
+|---|---|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src="https://github-readme-stats.vercel.app/api?username=s1see&custom_title=s1see's Github Stats&count_private=true&show_icons=true&theme=vue" height="160">　<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1see&layout=compact&theme=vue" height="160">
 <!--START_SECTION:waka-->
-
 ```text
 Markdown   11 mins         █████████████████████████   100.00 %
 ```
-
 <!--END_SECTION:waka-->
